@@ -1,7 +1,7 @@
 # code your #position_taken? method here!
 
 # method checks if spot is " " or ""
-def position_taken?(board, position, token)
+def position_taken?(board, position)
   
   
 end
