@@ -7,7 +7,7 @@ def position_taken?(board, position)
      board[position] == nil
     false
   else
-    board(position)
+    true
   end 
   
   
