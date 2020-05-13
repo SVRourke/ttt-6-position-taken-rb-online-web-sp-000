@@ -2,9 +2,10 @@
 
 # method checks if spot is " " or ""
 def position_taken?(board, position)
-  if board[position] == " " or 
-     board[position] == "" or
-     board[position] == nil
+  # if board[position] == " " or 
+  #   board[position] == "" or
+  #   board[position] == nil
+  if ?board(position)
     false
   end 
   
