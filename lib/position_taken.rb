@@ -6,6 +6,8 @@ def position_taken?(board, position)
      board[position] == "" or
      board[position] == nil
     false
+  else
+    board(position)
   end 
   
   
