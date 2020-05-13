@@ -2,6 +2,7 @@
 
 # method checks if spot is " " or ""
 def position_taken?(board, position)
+  if
   
   
 end
